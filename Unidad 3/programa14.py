@@ -2,7 +2,7 @@
 num  =  int ( input ( "Inserta el numero:" ));
 
 	
-	Si num=1 Entonces
+	Si num=(1) Entonces
 		print ('Felicidades:  has ganado un phone");
 	SiNo
 		Si num=2 Entonces
