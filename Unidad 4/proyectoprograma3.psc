@@ -84,7 +84,7 @@ Algoritmo semestre_materia
 		 Escribir "Interracion Humano Computadora" " creditos: 4 "
 		 Escribir "Ingenieria del Conocimiento" " creditos: 4 "
 		 Escribir "Negocios electronicos II" " creditos: 4 "
-		 Escribir "Ingles (Dependiendo de tu nivel)"
+		 Escribir "Ingles (Dependiendo de tu nivel)"  
 		 
 		 
  Fin Segun
