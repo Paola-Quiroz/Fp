@@ -1,6 +1,6 @@
 	Inicio = input ("Muy buen dia;")
 	Calcular = print ("Calcular Area de:;")
-    Cuadrado = print ("1 = Cuadrado;") 
+    Cuadrado = print ("1 = Cuadrado;")   
 	Circulo = print ("2 = Circulo;")
 	Rectangulo = print ("3 = Rectangulo;") 
 	Rectangulo = print ("4 = Triangulo;")

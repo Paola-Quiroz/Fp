@@ -1,5 +1,5 @@
 Algoritmo velocidad_distancia
-	Escribir "Buen dia"
+	Escribir "Buen dia" 
 	Escribir "Escribe la distancia en kilometros"
 	Leer distancia
 	Escribir "Escribe la velocidad en kilometros por hora"

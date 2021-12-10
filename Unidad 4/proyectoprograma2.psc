@@ -14,4 +14,4 @@ Algoritmo Nombre_mayor
 		Escribir "El nombre con mas letras es: " NO2
 	Fin Si
 	Escribir "Que tengas un muy buen dia <3"   
-FinAlgoritmo
+FinAlgoritmo 

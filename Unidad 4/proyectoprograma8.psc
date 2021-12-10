@@ -1,6 +1,6 @@
 Algoritmo nombre_aleatorio
 	Escribir "Buen dia"
-	escribir "ingresa un nombre"
+	escribir "ingresa un nombre"  
 	leer nom
 	b=longitud(nom)
 	

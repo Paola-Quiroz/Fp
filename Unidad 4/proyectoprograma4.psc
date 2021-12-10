@@ -1,7 +1,7 @@
 Algoritmo CalcularArea_Cuadrado_circulo_Rectangulo_Triangulo 
 	Escribir "Muy buen dia"
 	Escribir "Calcular Area de: "
-	Escribir "1 = Cuadrado " 
+	Escribir "1 = Cuadrado "  
 	Escribir "2 = Circulo " 
 	Escribir "3 = Rectangulo " 
 	Escribir "4 = Triangulo " 

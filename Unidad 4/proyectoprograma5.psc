@@ -1,4 +1,4 @@
-Algoritmo arreglo
+Algoritmo arreglo 
 	Escribir "Buen dia :)"
 	Escribir "Escribe en nombre de la clase"
 	Leer NO1

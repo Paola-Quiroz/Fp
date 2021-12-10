@@ -1,7 +1,7 @@
 	Inicio = input ("Buen dia;")
 	In = input ("Ingenieria en Tic`s;")
 	S1 = print ( input ("En que semestre vas;"))
-	
+	    
 	Segun S1 hacer
 		1:
 		 print ("Tus materias son: ;") 

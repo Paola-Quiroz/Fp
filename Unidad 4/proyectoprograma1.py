@@ -3,7 +3,7 @@
 	N2 = int ( input ("Inserta en segundo numero;"))
 	a = N1+N2
 	b = N1-N2
-	c = N1*N2
+	c = N1*N2  
 	d = N1/N2
 	
 	print ("Tu resultado en suma es: " a;)

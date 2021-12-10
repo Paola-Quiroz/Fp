@@ -1,7 +1,7 @@
 	Inicio = input ("Buen dia;")
 	nom = int(input ("ingresa un nombre;")
 	b=longitud(nom)
-	
+	    
 	Dimension letras[99999999]
 	dimension repe[999999]
 	

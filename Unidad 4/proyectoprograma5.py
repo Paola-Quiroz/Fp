@@ -5,7 +5,7 @@
 	A2 = print (input ("Atributo 2;"))
 	A3 = print (input ("Atributo 3;"))
 	A4 = print (input ("Atributo 4;"))
-	A5 = print (input ("Atributo 5;"))
+	A5 = print (input ("Atributo 5;"))    
 	A6 = print (input ("Atributo 6;"))
 	Leer A6
 	

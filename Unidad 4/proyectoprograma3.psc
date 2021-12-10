@@ -1,7 +1,7 @@
 Algoritmo semestre_materia
 	Escribir "Buen dia"
 	Escribir "Ingenieria en Tic`s"
-	Escribir "En que semestre vas"
+	Escribir "En que semestre vas" 
 	Leer S1
 	
 	Segun S1 hacer
