@@ -14,6 +14,6 @@ Algoritmo suma_resta_multiplicacion_division
 	Escribir "Tu resultado en resta es: " b
 	Escribir "Tu resultado en multiplicacion es: " c
 	Escribir "Tu resultado en division es: " d
-	Escribir "Que tengas un lindo dia"
+	Escribir "Que tengas un lindo dia" 
 	
 FinAlgoritmo
